@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Text-Embeddings-Vector-Search/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Text-Embeddings-Vector-Search?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Text-Embeddings-Vector-Search/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Text-Embeddings-Vector-Search?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Text-Embeddings-Vector-Search/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Text-Embeddings-Vector-Search?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Text-Embeddings-Vector-Search/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Text-Embeddings-Vector-Search/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -77,75 +77,75 @@ The following hosted platforms and managed APIs are ranked by company size (valu
 
 ## 🔓 Open-Source GitHub Projects
 
-The following open-source frameworks, model architectures, and vector search libraries are **sorted descending by GitHub star count**. Each project includes a live social star badge linking directly to its GitHub Stargazers page:
+The following open-source frameworks, model architectures, and vector search libraries are **sorted descending by GitHub Stars_Count**. Each project includes a live social Stars_Badge linking directly to its GitHub Stargazers page:
 
-1. **[Milvus](https://github.com/milvus-io/milvus)** [![GitHub stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers)  
+1. **[Milvus](https://github.com/milvus-io/milvus)** [![GitHub_Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers)  
    ⚡ **Distributed, highly scalable open-source vector database** built for massive AI workloads. Supports billion-scale vector indexes (HNSW, IVF, SCaNN), GPU acceleration, multi-tenancy, and cloud-native Kubernetes deployments. Benchmark: 0.988 Recall@10, 4,600 QPS at 100M vectors.
 
-2. **[Faiss](https://github.com/facebookresearch/faiss)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/faiss?style=social&color=white)](https://github.com/facebookresearch/faiss/stargazers)  
+2. **[Faiss](https://github.com/facebookresearch/faiss)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/faiss?style=social&color=white)](https://github.com/facebookresearch/faiss/stargazers)  
    ⚡ **Meta AI's foundational library for efficient similarity search and clustering of dense vectors.** Implements industry-standard indexing methods (IVF, PQ, HNSW) in C++ with GPU and SIMD optimizations. Powers vector search across countless production tech stacks.
 
-3. **[Qdrant](https://github.com/qdrant/qdrant)** [![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)  
+3. **[Qdrant](https://github.com/qdrant/qdrant)** [![GitHub_Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)  
    ⚡ **Ultra-fast Rust-based vector search engine and database** engineered for filter-heavy workloads. Native payload indexing, fast hybrid (dense + sparse BM25) search, and quantization support. Benchmark: 0.991 Recall@10, 4,200 QPS at 100M vectors.
 
-4. **[Chroma](https://github.com/chroma-core/chroma)** [![GitHub stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white)](https://github.com/chroma-core/chroma/stargazers)  
+4. **[Chroma](https://github.com/chroma-core/chroma)** [![GitHub_Stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white)](https://github.com/chroma-core/chroma/stargazers)  
    ⚡ **The AI-native open-source embedding database** designed for developer ergonomics and rapid RAG prototyping. Python and JavaScript SDKs, built-in document chunking, full-text search, and seamless LangChain/LlamaIndex integration.
 
-5. **[pgvector](https://github.com/pgvector/pgvector)** [![GitHub stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social&color=white)](https://github.com/pgvector/pgvector/stargazers)  
+5. **[pgvector](https://github.com/pgvector/pgvector)** [![GitHub_Stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social&color=white)](https://github.com/pgvector/pgvector/stargazers)  
    ⚡ **Open-source vector similarity search extension for PostgreSQL.** Supports HNSW and IVFFlat indexing, exact and approximate nearest neighbor search, L2 distance, inner product, and cosine distance directly inside relational SQL queries.
 
-6. **[Sentence Transformers](https://github.com/UKPLab/sentence-transformers)** [![GitHub stars](https://img.shields.io/github/stars/UKPLab/sentence-transformers?style=social&color=white)](https://github.com/UKPLab/sentence-transformers/stargazers)  
+6. **[Sentence Transformers](https://github.com/UKPLab/sentence-transformers)** [![GitHub_Stars](https://img.shields.io/github/stars/UKPLab/sentence-transformers?style=social&color=white)](https://github.com/UKPLab/sentence-transformers/stargazers)  
    ⚡ **The foundational Python framework for dense text and image embeddings.** Provides intuitive APIs (`model.encode()`) for state-of-the-art embedding computation, semantic search, cross-encoder reranking, and fine-tuning BERT/RoBERTa/T5 architectures.
 
-7. **[Weaviate](https://github.com/weaviate/weaviate)** [![GitHub stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers)  
+7. **[Weaviate](https://github.com/weaviate/weaviate)** [![GitHub_Stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers)  
    ⚡ **Cloud-native open-source vector search engine** with built-in ML model inference, GraphQL and REST APIs, multi-modal vector search, and native hybrid (dense + sparse/BM25) retrieval with configurable fusion algorithms.
 
-8. **[txtai](https://github.com/neuml/txtai)** [![GitHub stars](https://img.shields.io/github/stars/neuml/txtai?style=social&color=white)](https://github.com/neuml/txtai/stargazers)  
+8. **[txtai](https://github.com/neuml/txtai)** [![GitHub_Stars](https://img.shields.io/github/stars/neuml/txtai?style=social&color=white)](https://github.com/neuml/txtai/stargazers)  
    ⚡ **All-in-one embeddings database for semantic search, LLM orchestration, and workflow automation.** Combines vector indexes, sparse search, and relational storage with pipeline graph execution.
 
-9. **[FlagEmbedding (BGE)](https://github.com/FlagOpen/FlagEmbedding)** [![GitHub stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=social&color=white)](https://github.com/FlagOpen/FlagEmbedding/stargazers)  
+9. **[FlagEmbedding (BGE)](https://github.com/FlagOpen/FlagEmbedding)** [![GitHub_Stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=social&color=white)](https://github.com/FlagOpen/FlagEmbedding/stargazers)  
    ⚡ **The flagship open-source embedding model family from BAAI.** Features **BGE-M3** (100+ languages, 8,192 token context, dense + sparse + multi-vector retrieval) and **BGE v1.5** models ranking top of MTEB benchmarks. Includes state-of-the-art cross-encoder rerankers.
 
-10. **[LanceDB](https://github.com/lancedb/lancedb)** [![GitHub stars](https://img.shields.io/github/stars/lancedb/lancedb?style=social&color=white)](https://github.com/lancedb/lancedb/stargazers)  
+10. **[LanceDB](https://github.com/lancedb/lancedb)** [![GitHub_Stars](https://img.shields.io/github/stars/lancedb/lancedb?style=social&color=white)](https://github.com/lancedb/lancedb/stargazers)  
     ⚡ **Developer-friendly serverless vector database built on the Lance columnar data format.** Provides multi-modal search, zero-copy reads, zero infrastructure management, and sub-millisecond retrieval on disk.
 
-11. **[Vespa](https://github.com/vespa-engine/vespa)** [![GitHub stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white)](https://github.com/vespa-engine/vespa/stargazers)  
+11. **[Vespa](https://github.com/vespa-engine/vespa)** [![GitHub_Stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white)](https://github.com/vespa-engine/vespa/stargazers)  
     ⚡ **Yahoo's high-performance search and recommendation engine** combining vector search, lexical BM25 matching, structured SQL filtering, and online ML model evaluation at internet scale.
 
-12. **[Text Embeddings Inference (TEI)](https://github.com/huggingface/text-embeddings-inference)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/text-embeddings-inference?style=social&color=white)](https://github.com/huggingface/text-embeddings-inference/stargazers)  
+12. **[Text Embeddings Inference (TEI)](https://github.com/huggingface/text-embeddings-inference)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/text-embeddings-inference?style=social&color=white)](https://github.com/huggingface/text-embeddings-inference/stargazers)  
     ⚡ **Hugging Face's blazing-fast Rust inference solution for embedding and reranking models.** Features dynamic batching, Flash Attention, Candle/ONNX backends, gRPC support, and SPLADE pooling for sparse representations.
 
-13. **[text2vec](https://github.com/shibing624/text2vec)** [![GitHub stars](https://img.shields.io/github/stars/shibing624/text2vec?style=social&color=white)](https://github.com/shibing624/text2vec/stargazers)  
+13. **[text2vec](https://github.com/shibing624/text2vec)** [![GitHub_Stars](https://img.shields.io/github/stars/shibing624/text2vec?style=social&color=white)](https://github.com/shibing624/text2vec/stargazers)  
     ⚡ **Multilingual and Chinese text embedding toolkit** supporting Word2Vec, BERT, and Sentence-BERT backends for semantic matching, text classification, and search.
 
-14. **[USearch](https://github.com/unum-cloud/usearch)** [![GitHub stars](https://img.shields.io/github/stars/unum-cloud/usearch?style=social&color=white)](https://github.com/unum-cloud/usearch/stargazers)  
+14. **[USearch](https://github.com/unum-cloud/usearch)** [![GitHub_Stars](https://img.shields.io/github/stars/unum-cloud/usearch?style=social&color=white)](https://github.com/unum-cloud/usearch/stargazers)  
     ⚡ **Single-header C++ similarity search engine** with native bindings for Python, Rust, JavaScript, Java, Go, and C#. Supports 15+ quantization formats (down to 1-bit), SIMD acceleration, and user-defined metrics.
 
-15. **[FastEmbed](https://github.com/qdrant/fastembed)** [![GitHub stars](https://img.shields.io/github/stars/qdrant/fastembed?style=social&color=white)](https://github.com/qdrant/fastembed/stargazers)  
+15. **[FastEmbed](https://github.com/qdrant/fastembed)** [![GitHub_Stars](https://img.shields.io/github/stars/qdrant/fastembed?style=social&color=white)](https://github.com/qdrant/fastembed/stargazers)  
     ⚡ **Lightweight, fast Python embedding generation library** powered by ONNX Runtime. Zero heavy PyTorch dependencies, built-in support for BGE, MiniLM, and ColBERT models with instant tokenization.
 
-16. **[Infinity](https://github.com/michaelfeil/infinity)** [![GitHub stars](https://img.shields.io/github/stars/michaelfeil/infinity?style=social&color=white)](https://github.com/michaelfeil/infinity/stargazers)  
+16. **[Infinity](https://github.com/michaelfeil/infinity)** [![GitHub_Stars](https://img.shields.io/github/stars/michaelfeil/infinity?style=social&color=white)](https://github.com/michaelfeil/infinity/stargazers)  
     ⚡ **High-throughput, low-latency REST and gRPC inference serving engine** for text embeddings, cross-encoder rerankers, and clip models with continuous dynamic batching.
 
-17. **[Qwen3-Embedding](https://github.com/QwenLM/Qwen3-Embedding)** [![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-Embedding?style=social&color=white)](https://github.com/QwenLM/Qwen3-Embedding/stargazers)  
+17. **[Qwen3-Embedding](https://github.com/QwenLM/Qwen3-Embedding)** [![GitHub_Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-Embedding?style=social&color=white)](https://github.com/QwenLM/Qwen3-Embedding/stargazers)  
     ⚡ **Alibaba's instruction-aware embedding model family** supporting 8,192 token contexts across multiple parameter scales (0.6B to 8B). Uses task instruction prefixes for asymmetric query-passage search.
 
-18. **[Nomic Python & TS SDK](https://github.com/nomic-ai/nomic)** [![GitHub stars](https://img.shields.io/github/stars/nomic-ai/nomic?style=social&color=white)](https://github.com/nomic-ai/nomic/stargazers)  
+18. **[Nomic Python & TS SDK](https://github.com/nomic-ai/nomic)** [![GitHub_Stars](https://img.shields.io/github/stars/nomic-ai/nomic?style=social&color=white)](https://github.com/nomic-ai/nomic/stargazers)  
     ⚡ **Official client library for Nomic Atlas.** Enables interaction with Nomic Embed models, high-dimensional vector visualization, dataset mapping, and LangChain integration.
 
-19. **[BM25 (rank_bm25)](https://github.com/dorianbrown/rank_bm25)** [![GitHub stars](https://img.shields.io/github/stars/dorianbrown/rank_bm25?style=social&color=white)](https://github.com/dorianbrown/rank_bm25/stargazers)  
+19. **[BM25 (rank_bm25)](https://github.com/dorianbrown/rank_bm25)** [![GitHub_Stars](https://img.shields.io/github/stars/dorianbrown/rank_bm25?style=social&color=white)](https://github.com/dorianbrown/rank_bm25/stargazers)  
     ⚡ **Fast Python implementation of BM25 algorithms** (Okapi BM25, BM25L, BM25+). The essential sparse retrieval foundation for hybrid dense-lexical search systems.
 
-20. **[Mixedbread Skills](https://github.com/mixedbread-ai/skills)** [![GitHub stars](https://img.shields.io/github/stars/mixedbread-ai/skills?style=social&color=white)](https://github.com/mixedbread-ai/skills/stargazers)  
+20. **[Mixedbread Skills](https://github.com/mixedbread-ai/skills)** [![GitHub_Stars](https://img.shields.io/github/stars/mixedbread-ai/skills?style=social&color=white)](https://github.com/mixedbread-ai/skills/stargazers)  
     ⚡ **Open-source agent skills for search, RAG, and document parsing** compatible with Claude Code, Cursor, Codex, and Gemini CLI.
 
-21. **[Multilingual E5 (Unity)](https://github.com/skykim/multilingual-e5-unity)** [![GitHub stars](https://img.shields.io/github/stars/skykim/multilingual-e5-unity?style=social&color=white)](https://github.com/skykim/multilingual-e5-unity/stargazers)  
+21. **[Multilingual E5 (Unity)](https://github.com/skykim/multilingual-e5-unity)** [![GitHub_Stars](https://img.shields.io/github/stars/skykim/multilingual-e5-unity?style=social&color=white)](https://github.com/skykim/multilingual-e5-unity/stargazers)  
     ⚡ **E5 multilingual models optimized for the Unity Sentis / AI Inference Engine**, enabling on-device 100+ language semantic retrieval in game engines and XR applications.
 
-22. **[Sparse-Dense Joint Retrieval](https://github.com/holi-lab/mm-sparse-retrieval)** [![GitHub stars](https://img.shields.io/github/stars/holi-lab/mm-sparse-retrieval?style=social&color=white)](https://github.com/holi-lab/mm-sparse-retrieval/stargazers)  
+22. **[Sparse-Dense Joint Retrieval](https://github.com/holi-lab/mm-sparse-retrieval)** [![GitHub_Stars](https://img.shields.io/github/stars/holi-lab/mm-sparse-retrieval?style=social&color=white)](https://github.com/holi-lab/mm-sparse-retrieval/stargazers)  
     ⚡ **CIKM 2025 research implementation** for jointly optimizing sparse and dense retrievers via Self-Knowledge Distillation for text-image retrieval.
 
-23. **[local-llm-embed](https://github.com/youichi-uda/local-llm-embed)** [![GitHub stars](https://img.shields.io/github/stars/youichi-uda/local-llm-embed?style=social&color=white)](https://github.com/youichi-uda/local-llm-embed/stargazers)  
+23. **[local-llm-embed](https://github.com/youichi-uda/local-llm-embed)** [![GitHub_Stars](https://img.shields.io/github/stars/youichi-uda/local-llm-embed?style=social&color=white)](https://github.com/youichi-uda/local-llm-embed/stargazers)  
     ⚡ **Train-free sentence embedding extraction from local causal LLMs** using whitening and echo representations without loading separate encoder checkpoints.
 
 ---
@@ -178,7 +178,7 @@ We welcome contributions from the AI and search engineering community!
 
 1. Fork this repository.
 2. Add or update entries in `README.md` maintaining table formatting or descending star order.
-3. Include valid official links, specific pricing, exact free tier limits, and social star badges.
+3. Include valid official links, specific pricing, exact free tier limits, and social Stars_Badges.
 4. Submit a Pull Request with a clear description of your additions.
 
 Explore our sister curated lists at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
